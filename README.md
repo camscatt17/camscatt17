@@ -23,7 +23,7 @@ Gosto de trabalhar principalmente com a área de Data Science, porém tenho outr
   <img align="center" alt="Cami-C++" height="30" width="40" src="https://user-images.githubusercontent.com/39015235/221916694-b1520490-52c2-497a-81fb-43a9f8463a2b.png">
   <img align="center" alt="Cami-C" height="30" width="40" src="https://user-images.githubusercontent.com/39015235/221917401-c8dc641f-db39-4fcf-92f0-0a0f57560dfe.png">
   <img align="center" alt="Cami-Java" height="30" width="40" src="https://user-images.githubusercontent.com/39015235/221917528-06d0b36b-2b20-40f1-9430-2eccb7a0d813.png">
-  <img align="right" alt="Cami-pic" height="150" style="border-radius:50px;" src="https://user-images.githubusercontent.com/39015235/221922825-4e4a83ac-06ed-4b7f-8ba3-c118b5e1f282.png">
+  <img align="right" alt="Cami-pic" height="150" style="border-radius:50px;" src="https://user-images.githubusercontent.com/39015235/221927226-3240dc62-54f3-4aa4-8b0d-58bdb44090be.png">
 </div>
 
  ##
