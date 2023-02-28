@@ -38,3 +38,5 @@ Gosto de trabalhar principalmente com a área de Data Science, porém tenho outr
  <a href="https://medium.com/@camscatt17" target="_blank"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" target="_blank"></a> 
   
 </div>
+
+![Snake animation](https://github.com/camscatt17/camscatt17/blob/output/github-contribution-grid-snake.svg)
