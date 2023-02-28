@@ -2,16 +2,17 @@
 ## Hello World, eu sou a Camila Santos!
 Sou técnica Judiciária meio período e aspirante a engenheira da computação FullStack em período integral.
 Gosto de trabalhar principalmente com a área de Data Science, porém tenho outros interesses que envolvem principalmente linguagens orientadas a objetos e Redes de Computadores  
-
- ⚖️  &nbsp; Estou trabalhando no **TJPR**
- <br/> :sparkles: &nbsp; Hoje estou estudando a área Front-end, focando principalmente HTML e CSS.
- <br/> :computer: &nbsp; Além disso, tenho certificação Cisco de introdução a Cybersecurity
+ <br/> :hibiscus: &nbsp; Estou atualmente trabalhando no **TJPR**
+ <br/> :hibiscus: &nbsp; Hoje estou estudando a área Front-end, focando principalmente em HTML e CSS.
+ <br/> :hibiscus: &nbsp; Tenho certificação Cisco de introdução a Cybersecurity
  <br/> :hibiscus: &nbsp; Sobre mim: Sou apaixonada por artes visuais e uso muito do meu tempo livre lendo
- <br/> :mailbox: &nbsp; Entre em contato comigo: [![Linkedin Badge](https://img.shields.io/badge/-CamilaSantos-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/camilasantos17/)](https://www.linkedin.com/in/camilasantos17/) 
-| 
-[![Gmail Badge](https://img.shields.io/badge/-camscatt17@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:camscatt17@gmail.com)](mailto:camscatt17@gmail.com)
-
+ 
+ ##
+ 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=camscatt17&theme=dracula&show_icons=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=camscatt17&layout=compact&theme=dracula&show_icons=true)](https://github.com/camscatt17/github-readme-stats)
+
+##
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Cami-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -20,4 +21,16 @@ Gosto de trabalhar principalmente com a área de Data Science, porém tenho outr
   <img align="center" alt="Cami-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Cami-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="right" alt="Cami-pic" height="150" style="border-radius:50px;" src="https://media.discordapp.net/attachments/639956127056134178/890373478988013628/Publicacoes_Instagram_1_1.png?width=676&height=676">
+</div>
+
+ ##
+ 
+<div> 
+  <a href="https://www.youtube.com/channel/UC25S-KUMJo7SFKIgAmr94Tw" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
+  <a href="https://www.instagram.com/camii_sant/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+ 	<a href="https://www.twitch.tv/camiscatt" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
+ <a href="https://discord.gg/Em2wW72eHZ" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
+  <a href = "mailto:camscatt17@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/camilasantos17/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  
 </div>
