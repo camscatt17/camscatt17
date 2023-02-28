@@ -2,10 +2,10 @@
 ## Hello World, eu sou a Camila Santos!
 Sou técnica Judiciária meio período e aspirante a engenheira da computação FullStack em período integral.
 Gosto de trabalhar principalmente com a área de Data Science, porém tenho outros interesses que envolvem principalmente linguagens orientadas a objetos e Redes de Computadores  
- <br/> :hibiscus: &nbsp; Estou atualmente trabalhando no **TJPR**
+ <br/> :hibiscus: &nbsp; Estou atualmente trabalhando no **TJPR**.
  <br/> :hibiscus: &nbsp; Hoje estou estudando a área Front-end, focando principalmente em HTML e CSS.
- <br/> :hibiscus: &nbsp; Tenho certificação Cisco de introdução a Cybersecurity
- <br/> :hibiscus: &nbsp; Sobre mim: Sou apaixonada por artes visuais e uso muito do meu tempo livre lendo
+ <br/> :hibiscus: &nbsp; Tenho certificação Cisco de introdução a Cybersecurity.
+ <br/> :hibiscus: &nbsp; Sobre mim: Sou apaixonada por artes visuais e grande parte do meu tempo livre é usado lendo e/ou escrevendo.
  
  ##
  
@@ -34,6 +34,7 @@ Gosto de trabalhar principalmente com a área de Data Science, porém tenho outr
  	<a href="https://www.twitch.tv/camiscatt" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
  <a href="https://discord.gg/Em2wW72eHZ" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   <a href = "mailto:camscatt17@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/camilasantos17/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://www.linkedin.com/in/camilasantos17/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+ <a href="https://medium.com/@camscatt17" target="_blank"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" target="_blank"></a> 
   
 </div>
