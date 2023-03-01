@@ -4,7 +4,7 @@ Sou técnica Judiciária meio período e aspirante a engenheira da computação 
 Gosto de trabalhar principalmente com a área de Data Science, porém tenho outros interesses que envolvem principalmente linguagens orientadas a objetos e Redes de Computadores  
  <br/> :hibiscus: &nbsp; Estou atualmente trabalhando no **TJPR**.
  <br/> :hibiscus: &nbsp; Hoje estou estudando a área Front-end, focando principalmente em HTML e CSS.
- <br/> :hibiscus: &nbsp; Tenho certificação Cisco de introdução a Cybersecurity.
+ <br/> :hibiscus: &nbsp; Tenho certificação Cisco na área de Cybersecurity.
  <br/> :hibiscus: &nbsp; Sobre mim: Sou apaixonada por artes visuais e grande parte do meu tempo livre é usado lendo e/ou escrevendo.
  
  ##
